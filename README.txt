@@ -1,7 +1,3 @@
 
-
-how to install the ?addon?
-just drop the "/garrysmod/addons";
-
-
-lel :D
+как установить?
+просто кидай основную папку "loading_screen" в папку аддонов GarrysMod "garrysmod/addon"
